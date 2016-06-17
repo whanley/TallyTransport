@@ -14,8 +14,19 @@ Here are a few relevant images and files:
 ### Woodward connector path
 ![Woodward Connector](images/Woodward-connector.jpg)
 
+### 2015 Greenways masterplan
+This segment appears on pages 70 and 71 of this [PDF](http://cms.leoncountyfl.gov/coadmin/agenda/attach/150707/A0901.pdf).
 
-Here's what I wrote to the city commissioners:
+### Woodward branch property map
+Here is a [detail](images/detail-woodward-branch.png) from the [Leon Count Surveyors' website](http://www.leonpa.org/pt/maps/mapadv.aspx).
+
+### Development plan
+This is the version available on June 14, 2016: [PDF](assets/Development Site Plan - Mosley Street-2016-06-14.pdf)
+
+### David Brightbill's proposal
+[Google Doc](https://docs.google.com/document/d/1G2Qq_Z6NX1UjOtxzzAtnCFEsjWrkv0BAOX78X1A6Wv0/edit)
+
+### My comments to the city commissioners:
 
 I am writing in opposition to the proposed sale of City land (parcel 41-02-20-951-000-1) to the developers of Stadium Enclave. I have three main concerns.
 
