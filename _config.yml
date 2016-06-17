@@ -10,8 +10,8 @@ title: TallyTransport
 email: willpdfs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A site hosting information about transportation and traffic issues in Tallahassee, Florida.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://whanley.github.io/TallyTransport" # the base hostname & protocol for your site
+baseurl: "/TallyTransport" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter: HanleyWill
 teaser: CapCirc_Centerville.JPG
 
