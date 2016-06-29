@@ -20,6 +20,9 @@ This segment appears on pages 70 and 71 of this [PDF](http://cms.leoncountyfl.go
 ### Woodward branch property map
 Here is a [detail](images/detail-woodward-branch.png) from the [Leon Count Surveyors' website](http://www.leonpa.org/pt/maps/mapadv.aspx).
 
+### Access easement on west side of property
+Another [detail](images/access-easement.png) from the [Leon Count Surveyors' website](http://www.leonpa.org/pt/maps/mapadv.aspx).
+
 ### Development plan
 This is the version available on June 14, 2016: [PDF](assets/Development Site Plan - Mosley Street-2016-06-14.pdf)
 
